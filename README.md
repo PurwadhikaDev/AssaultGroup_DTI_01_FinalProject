@@ -1,4 +1,4 @@
-# What are on Our Basket? Do the Champions Ones were also Our Top?
+# ☁️ Click, Cluster, Convert - Big, Basket, Buy: The ML Blueprint for Olist’s E-Commerce RFM & MBA Revolution 🗑️
 <img src="https://github.com/user-attachments/assets/1d162086-5c6f-4dba-b2b2-ed75528400e8" alt="assaul-logo-olist" width="150" height="150">
 
 🏹 AssaultGroup_DTI_01_FinalProject <br>
