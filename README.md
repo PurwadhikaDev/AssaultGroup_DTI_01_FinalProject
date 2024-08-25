@@ -10,9 +10,7 @@
 * [Olist Brazilian E-commerce Datasets](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_order_payments_dataset.csv); [Geolocation](https://www.kaggle.com/code/zeeniye/geolocation-workaround-mapping-solved/notebook) 🗄
 ---
 
-![img1](https://github.com/user-attachments/assets/0d918a36-8958-47cb-b154-fea79a20b67f)
-
-<img width="863" alt="Screenshot 2024-08-14 at 15 16 44" src="https://github.com/user-attachments/assets/2e548728-cc32-4abe-8984-5cfb1de46e3d">
+![olist-icon](https://github.com/user-attachments/assets/5fa52d6f-00fa-4589-a673-28a761473c04)
 
 ## Main Idea: 
 Pareto's principle, a commonly accepted rule of business, states that roughly 20 percent of your customers provide 80 percent of your profits. Therefore, it makes sense for small businesses to focus much of their spending and attention on their core customers. The next tier of customers should also get some marketing attention. However, customers that do not offer much lifetime potential should not be the target of marketing investments.
@@ -152,3 +150,8 @@ The implementation of Machine Learning models for customer segmentation and prod
 
 ---
 # Thank You!
+
+---
+![img1](https://github.com/user-attachments/assets/0d918a36-8958-47cb-b154-fea79a20b67f)
+
+<img width="863" alt="Screenshot 2024-08-14 at 15 16 44" src="https://github.com/user-attachments/assets/2e548728-cc32-4abe-8984-5cfb1de46e3d">
