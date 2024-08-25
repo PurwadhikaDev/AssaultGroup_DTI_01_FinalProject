@@ -1,8 +1,5 @@
 # What are on Our Basket? Do the Champions Ones were also Our Top?
-<img src="https://github.com/user-attachments/assets/c86fba44-d6e1-4923-b4bd-9972bedebd31" alt="assaul-logo-olist" width="150" height="150">
-
-![olist logo](https://github.com/user-attachments/assets/1d162086-5c6f-4dba-b2b2-ed75528400e8)
-
+<img src="https://github.com/user-attachments/assets/1d162086-5c6f-4dba-b2b2-ed75528400e8" alt="assaul-logo-olist" width="150" height="150">
 
 🏹 AssaultGroup_DTI_01_FinalProject <br>
 👥 [Muhammad Difagama Ivanka](https://github.com/zeenfts), [Rizqi Ahmad Kurniawan](https://github.com/Rizqi-Ahmad-Kurniawan), [Tio Syaifuddin](https://github.com/tio14)
