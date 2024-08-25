@@ -1,4 +1,4 @@
-# AssaultGroup_DTI_01_FinalProject
+# 🌟 AssaultGroup_DTI_01_FinalProject - PWD-Batam-Data Science 🌟
 
 👥 [Muhammad Difagama Ivanka](https://github.com/zeenfts), [Rizqi Ahmad Kurniawan](https://github.com/Rizqi-Ahmad-Kurniawan), [Tio Syaifuddin](https://github.com/tio14)
 
@@ -6,21 +6,7 @@
 * [Tableau Dashboard]()
 * [Main Notebook File](https://github.com/PurwadhikaDev/AssaultGroup_DTI_01_FinalProject/blob/main/main.ipynb)
 * [Olist Brazilian E-commerce Datasets](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_order_payments_dataset.csv); [Geolocation](https://www.kaggle.com/code/zeeniye/geolocation-workaround-mapping-solved/notebook)
-
 ---
-# Business Problem
-
----
-# Summary
-
----
-# Recommendation
-
----
-# Thank You
----
-
-# 🌟 PWD-DTI-Batam-DatSci-Final-Project 🌟
 
 ![img1](https://github.com/user-attachments/assets/0d918a36-8958-47cb-b154-fea79a20b67f)
 
@@ -161,3 +147,6 @@ The implementation of Machine Learning models for customer segmentation and prod
 - **CTR**: Personalized recommendations boost CTRs by 25-50% .
 - **ARPU**: Upselling and cross-selling increase ARPU by 10-20% .
 - **CPA**: Proper segmentation can decrease CPA by 15-30% .
+
+---
+# Thank You!
