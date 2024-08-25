@@ -1,3 +1,4 @@
+![fpgrowth olist icon](https://github.com/user-attachments/assets/e4d0b12f-f9b5-4d20-847e-3759ba71033f)
 # What are on Our Basket? Do the Champions Ones were also Our Top?
 
 🏹 AssaultGroup_DTI_01_FinalProject <br>
