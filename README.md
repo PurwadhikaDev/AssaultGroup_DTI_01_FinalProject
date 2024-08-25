@@ -4,7 +4,7 @@
 🏹 AssaultGroup_DTI_01_FinalProject <br>
 👥 [Muhammad Difagama Ivanka](https://github.com/zeenfts), [Rizqi Ahmad Kurniawan](https://github.com/Rizqi-Ahmad-Kurniawan), [Tio Syaifuddin](https://github.com/tio14)
 
-* [Tableau Story]() 🎀
+* [Tableau Story](https://public.tableau.com/app/profile/rizqi.ahmad.kurniawan/vizzes) 🎀
 * [Tableau Dashboard](https://public.tableau.com/views/FINALDTI-DSFinalProjectOlistE-CommerceDB/HomeDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 📈
 * [Main Notebook File](https://github.com/PurwadhikaDev/AssaultGroup_DTI_01_FinalProject/blob/main/notebook.ipynb) 📝
 * [Olist Brazilian E-commerce Datasets](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_order_payments_dataset.csv); [Geolocation](https://www.kaggle.com/code/zeeniye/geolocation-workaround-mapping-solved/notebook) 🗄
