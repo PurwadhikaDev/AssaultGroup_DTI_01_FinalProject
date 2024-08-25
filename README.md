@@ -1,5 +1,6 @@
-# Customer Segmentation & Products Recommendation using RFM + MBA by AssaultGroup_DTI_01_FinalProject 🏹
+# What are on Our Basket? (of Each Customer based on their Segment)
 
+🏹 AssaultGroup_DTI_01_FinalProject <br>
 👥 [Muhammad Difagama Ivanka](https://github.com/zeenfts), [Rizqi Ahmad Kurniawan](https://github.com/Rizqi-Ahmad-Kurniawan), [Tio Syaifuddin](https://github.com/tio14)
 
 * [Tableau Story]() 🎀
