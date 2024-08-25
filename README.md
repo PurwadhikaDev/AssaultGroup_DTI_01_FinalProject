@@ -1,4 +1,4 @@
-# What are on Our Basket? (of Each Customer based on their Segment)
+# What are on Our Basket? Do the Champions Ones were also Our Top?
 
 🏹 AssaultGroup_DTI_01_FinalProject <br>
 👥 [Muhammad Difagama Ivanka](https://github.com/zeenfts), [Rizqi Ahmad Kurniawan](https://github.com/Rizqi-Ahmad-Kurniawan), [Tio Syaifuddin](https://github.com/tio14)
